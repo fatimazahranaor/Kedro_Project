@@ -1,0 +1,7 @@
+limit_size: 1000
+column_old: "tpep_pickup_datetime"
+column_new: "pickup_datetime"
+
+#On suppose que le max Latittude est 40.7 est max Longitude est 73.9
+maxLat: 40.7
+maxLong: 73.9
